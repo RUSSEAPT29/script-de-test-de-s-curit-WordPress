@@ -20,7 +20,7 @@ YELLOW = Fore.YELLOW
 RESET = Style.RESET_ALL
 
 # Configuration de l'API WPScan (remplacez par votre clé)
-WPSCAN_API_KEY = "dinCHb9DGpy5XPc5mBfOBc2AYaJ1GnfsGh833VS7XJg"  # Remplacez par votre clé API valide
+WPSCAN_API_KEY = "votre clé API valide"  # Remplacez par votre clé API valide
 WPSCAN_API_URL = "https://wpscan.com/api/v3/"
 
 # Fonction pour afficher le menu
